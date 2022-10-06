@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 @media only screen and (max-width: 700px) {
     .container{
         width: 80%;
@@ -133,9 +133,9 @@
     margin: 13px 0;
     padding: 0;
     line-height: 25px;
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
     color: #fff;
 }
 .jane {

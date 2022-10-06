@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 @media only screen and (max-width: 700px) {
   .subheading{
     display: flex;
     text-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-size: small;
-    font-family: 'Orbitron', sans-serif;
+    font-size: medium;
+    font-family: 'Montserrat', sans-serif;
     color: rgb(255, 255, 255);
     letter-spacing: 2px;
   }  
@@ -152,7 +152,7 @@ hr{
     margin-bottom: 0px;
     font-family: 'Orbitron', sans-serif;
     color: rgb(255, 255, 255);
-    letter-spacing: 4px;
+    letter-spacing: 2px;
 }
 .hrsub{
     width: 30%;
